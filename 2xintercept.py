@@ -4,9 +4,9 @@ Created on Wed Dec 29 13:53:39 2021
 
 @author: gperr
 """
-print("for y=mx+b enter numbers in the form: m b ")
-print("and python Returns the value of x intercept with the x axis")
-
+print("for a line (y=mx+b) enter numbers in the format: m b ")
+print("and python Returns the value of x when y=0")
+print("you can find the intercept for multiple functions in the format: m b m2 b2 m3 b3 ..mn bn")
 input_number = input().split()
 #print("[m, b]")
 #print(input_number)
